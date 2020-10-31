@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    padding: 80px;
+    padding-bottom: 50px;
+    font-family: Verdana;
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 50px;
+    font-family: Verdana;
+    color: salmon;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 30px;
+    font-family: Verdana;
+    color:plum;
+    font-size: 20px;
+    font-weight: bold;
+}
+h4{
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana;
+    color:pink;
+    font-size: 15px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(111, 171, 221);
+    text-align: center;
+
+}
+.container{
+    margin-top: 50px;
+}
+
+.form-group{
+    margin-top: 15px;
+}
+
+.card{
+    margin-top: 30px;
+}
+
+#feedback{
+    margin-top: 20px;
+}
+
+#message {
+    color: #ff000d;
+    font-weight: bold;
+    font-size: 50px;
+
+}
